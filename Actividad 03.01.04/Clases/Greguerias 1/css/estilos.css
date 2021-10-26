@@ -1,0 +1,27 @@
+body{
+    background-color: #2D8652;
+}
+h1{
+    font-size: 300%;
+    font-family: sans-serif;
+}
+.a{
+    font-style: italic;
+    font-size: 150%;
+    color: white;
+}
+.b{
+    font-family: sans-serif;
+    font-size: 150%;
+    color: #FFDFB3;
+}
+.c{
+    font-family: monospace;
+    font-size: 200%;
+    color: #FF9F1A;
+}
+.d{
+    font-family:cursive;
+    font-size: 150%;
+    color: red;
+}
