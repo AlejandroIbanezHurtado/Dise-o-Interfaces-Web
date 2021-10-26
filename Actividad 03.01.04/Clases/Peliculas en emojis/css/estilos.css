@@ -1,0 +1,28 @@
+body{
+    font-family: sans-serif;
+    background-color: #FFEACC;
+}
+h1{
+    color: #995900;
+}
+h2{
+    color: #FF9500;
+    font-size: 200%;
+    font-weight: 100;
+}
+
+.a{
+    background-color: #FFCCEA;
+    width: auto;
+}
+.b{
+    background-color: white;
+}
+
+details{
+    font-size: 400%;
+}
+
+p{
+    font-size: 0.5em;
+}
