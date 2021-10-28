@@ -1,0 +1,46 @@
+body{
+    background-color: #C4C6B9;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 300%;
+    text-align: right;
+    letter-spacing: 50px;
+    font-weight: 900;
+    color: #161669;
+}
+
+p{
+    font-size: 150%;
+    text-align: justify;
+}
+
+h2{
+    background-color: #5D6336;
+    color: white;
+    font-size: 230%;
+}
+
+.imagen1{
+    float: left;
+    margin-right: 10px;
+    clear: right;
+}
+
+
+
+.imagen2{
+    display:block;
+    margin:auto;
+}
+
+address{
+    font-size: 120%;
+    clear: both;
+}
+
+.imagen3{
+    float: right;
+    margin-left: 1%;
+}
