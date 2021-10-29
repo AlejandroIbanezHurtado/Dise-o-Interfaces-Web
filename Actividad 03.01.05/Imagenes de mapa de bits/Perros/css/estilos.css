@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Sigmar One";
+    src: url(../fuentes/sigmar-one.woff);
+}
+
+body{
+    background-color: #E9F2FB;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 300%;
+    text-transform: uppercase;
+    font-family: "Sigmar One";
+    text-align: center;
+}
+
+p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 110%;
+    text-align: justify;
+}
+
+strong{
+    font-style: italic;
+    font-size: 120%;
+    text-decoration: underline;
+}
+
+.rojo{
+    background-color: white;
+    color: red;
+    font-weight: 700;
+}
+
+.azul{
+    color: blue;
+}
+
+hr{
+    background-color: #7A99B8;
+    border-radius: 25px;
+    border-color: black;
+    height: 10px;
+    width: 60%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    clear: both;
+}
+
+h2{
+    font-family: "Sigmar One";
+    color: #7A99B8;
+    font-size: 320%;
+    margin-left: 5%;
+    text-shadow: 2px 3px black;
+}
+
+.izquierda{
+    float: left;
+    margin-left: 5%;
+    border: solid #7A99B8;
+    border-width: 5px;
+    margin-right: 1%;
+    padding: 5px;
+}
+
+.derecha{
+    float: right;
+    margin-left: 1%;
+    border: solid #7A99B8;
+    border-width: 5px;
+    margin-right: 3%;
+    padding: 5px;
+}
+
+.centro{
+    float: center;
+    margin-left: 1%;
+    border: solid #7A99B8;
+    border-width: 5px;
+    margin-right: 3%;
+    padding: 5px;
+}
+
+.pizq{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.pder{
+    float: right;
+    width: 30%;
+    margin-right: 5%;
+}
+
+address{
+    text-align: right;
+    margin-right: 5%;
+}
