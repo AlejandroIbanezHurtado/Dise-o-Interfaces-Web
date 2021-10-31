@@ -1,0 +1,83 @@
+body{
+    background-color: #FEF8E6;
+    font-family: sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 420%;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: min-content;
+}
+
+p{
+    font-size: 220%;
+    letter-spacing: 1px;
+    width: 60%;
+    text-align: justify;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.foto1{
+    display:block;
+    margin:auto;
+    width: 40%;
+}
+
+hr{
+    width: 40%;
+    float: none;
+    border: solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+pre{
+    font-size: 250%;
+    width: 50%;
+    border: solid black;
+    background-color: #EEEEEE;
+    display: block;
+    margin: auto;
+}
+
+.foto2{
+    float: left;
+    margin-left: 20%;
+    width: 12%;
+    height: 12%;
+    margin-bottom: 30px;
+    margin-right: 5px;
+}
+
+.corazon{
+    margin-right: 150px;
+    float: none;
+    margin-bottom: -50px;
+}
+
+.alegria{
+    float: none;
+    margin-bottom: -50px;
+}
+
+address{
+    font-size: 200%;
+    width: 60%;
+    float: center;
+    margin: auto;
+}
+
+.linea{
+    width: 60%;
+    float: none;
+    border: solid black;
+    border-width: 2px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: left;
+}
