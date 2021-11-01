@@ -1,0 +1,97 @@
+@font-face {
+    font-family: "Cabin Sketch";
+    src: url(../fuentes/cabin-sketch.woff);
+}
+
+@font-face {
+    font-family: "Gabriela";
+    src: url(../fuentes/gabriela.woff);
+}
+body{
+    background-color: #C7C8D1;
+}
+
+h1{
+    font-size: 400%;
+    color: #575A75;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+article{
+    width: 92%;
+    float: none;
+    margin: auto;
+    margin-bottom: 10px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.futbol{
+    border: solid #CC4400;
+}
+
+.literatura{
+    border: solid #E600E6;
+}
+
+h2{
+    color: white;
+    font-size: 200%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 8px;
+    border-top-right-radius: 20px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 90%;
+}
+
+div{
+    margin-top: -20px;
+    padding: 5px;
+}
+
+.p1{
+    margin-top: -15px;
+}
+
+article.futbol h2{
+    background-color: #CC5500;
+    padding-left: 5px;
+}
+
+article.literatura h2{
+    background-color: #E600E6;
+    padding-left: 5px;
+}
+
+article.futbol div.datos{
+    background-color: #DB5B00;
+    padding-left: 10px;
+    padding-top: 0px;
+}
+
+article.futbol div.vida{
+    background-color: #FFA666;
+    padding: 1px;
+    padding-left: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+article.literatura div.datos{
+    background-color: #FF80FF;
+    padding-left: 10px;
+    padding-top: 0px;
+}
+
+article.literatura div.vida{
+    background-color: #FFCCFF;
+    padding: 1px;
+    padding-left: 20px;
+    border-bottom-left-radius: 20px;
+}
