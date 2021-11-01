@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "PlayBall";
+    src: url(../fuentes/playball.woff);
+}
+
+html {
+    margin-bottom: 0;
+    padding-bottom: 2rem;
+}
+
+body{
+    font-family: PlayBall;
+    text-align: justify;
+    margin: 0;
+}
+
+header{
+    background-color: #E64D19;
+    color: white;
+}
+
+h1{
+    margin: 0;
+    font-size: 400%;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+main{
+    border-left: solid #FF6633;
+    border-right: solid #FF6633;
+    border-width: 5px;
+    width: 90%;
+    float: none;
+    margin: auto;
+}
+
+h2{
+    background-color: #FF6633;
+    color: white;
+    font-size: 230%;
+}
+
+h3{
+    background-color: #FF6633;
+    color: white;
+    font-size: 180%;
+}
+
+.siglo{
+    width: 90%;
+    float: none;
+    margin: auto;
+    background-color: #FFD9CC;
+    clear: both;
+}
+
+article article{
+    width: 80%;
+    float: none;
+    margin: auto;
+    background-color: white;
+    padding: 0;
+}
+
+aside{
+    border-left: solid #FF6633;
+    border-width: 5px;
+    float: right;
+    margin-right: 50px;
+    margin-top: -10px;
+    margin-left: 30px;
+}
+
+aside p{
+    text-align: center;
+    margin-top: 0px;
+}
+
+article p{
+    font-size: 150%;
+    margin-left: 30px;
+}
+
+img{
+    margin-top: 10px;
+}
+
+footer{
+    background-color: #E64D19;
+    border-bottom: solid black;
+    font-size: 150%;
+    color: white;
+}
+
+footer p{
+    margin-bottom: 0px;
+}
