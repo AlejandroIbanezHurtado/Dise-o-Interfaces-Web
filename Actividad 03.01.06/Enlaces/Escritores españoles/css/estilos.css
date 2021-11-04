@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "PlayBall";
+    src: url(../fuentes/playball.woff);
+}
+html{
+    background-color: #FFCCBC;
+}
+
+body{
+    width: 80%;
+    float: none;
+    margin: auto;
+    font-family: "PlayBall";
+    background-color: white;
+}
+
+h1{
+    background-color: #FF5722;
+    color: white;
+    font-size: 300%;
+    padding-left: 10px;
+    margin-bottom: 0;
+}
+
+
+nav p{
+    font-size: 300%;
+    margin-left: 45px;
+}
+
+img{
+    vertical-align: middle;
+}
+
+footer{
+    clear: both;
+    background-color: #FF5722;
+    color: white;
+}
+
+
+footer img{
+    height: 50px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+aside{
+    border-left: solid #FF5722 5px;
+    float: right;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+aside img{
+    margin: 25px;
+}
+
+p{
+    font-size: 150%;
+    margin: 25px;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
