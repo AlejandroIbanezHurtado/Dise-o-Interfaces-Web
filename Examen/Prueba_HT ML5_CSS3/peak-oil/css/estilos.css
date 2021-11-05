@@ -1,0 +1,106 @@
+body{
+    background-color: #CCCECC;
+    font-family: sans-serif;
+}
+
+main{
+    width: 80%;
+    float: none;
+    margin: auto;
+}
+
+aside{
+    width: 30%;
+    float: left;
+    margin-left: -130px;
+    background-color: white;
+    width: 80px;
+    border: solid 2px;
+    margin-bottom: -150px;
+}
+
+div{
+    clear: left;
+    background-color: #e6e6e6;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+h1{
+    margin-bottom: 50px;
+    text-align: right;
+    font-size: 250%;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+}
+
+h2{
+    background-color: #808080;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-left: 20px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+div p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div img{
+    display:block;
+    margin:auto;
+}
+
+hr{
+    border: solid 2px;
+    background-color: #efc11a;
+    height: 8px;
+    width: 60%;
+}
+
+article{
+    background-color: white;
+    width: 97%;
+    float: none;
+    margin: auto;
+}
+
+h3{
+    background-color: #b4b2b4;
+    color: white;
+    padding-left: 8px;
+}
+
+span{
+    font-size: 50px;
+    float: right;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+
+address{
+    margin-top: 40px;
+    background-color: #efc11a;
+    font-family: "Comic Sans", cursive;
+    font-weight: 550;
+}
+
+a{
+    color: red;
+}
+
+.a2{
+    color: black;
+    font-style: italic;
+    font-weight: 800;
+    text-decoration: underline;
+}
+
+aside a{
+    color:blue;
+}
