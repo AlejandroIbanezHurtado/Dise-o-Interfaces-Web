@@ -1,0 +1,82 @@
+@font-face {
+    font-family: "slackey";
+    src: url("../fonts/slackey.woff2");
+}
+
+body{
+    background: url("../img/violeta.png");
+    font-family: sans-serif;
+}
+
+main{
+    margin-top: 0;
+    width: 95%;
+    float: none;
+    margin: auto;
+    background-color: #a4c6ec;
+}
+h1{
+    font-family: "slackey";
+    font-size: 250%;
+    text-align: center;
+    color: #5c59a4;
+    text-shadow: white 5px -5px 5px;
+    border-bottom: solid #5c59a4 5px;
+}
+
+.p1{
+    background-color: white;
+    font-size: 125%;
+}
+
+aside{
+    float: left;
+    width:min-content;
+    margin: 20px;
+    border: solid black 2px;
+    padding: 5px;
+}
+
+img{
+    vertical-align: middle;
+}
+
+.p1{
+    height: 250px;
+    margin-bottom: 40px;
+}
+
+.naranja{
+    background-color: #f28226;
+    width: 26%;
+    display: inline-block;
+    margin: 20px;
+    height: 300px;
+    padding: 20px;
+    font-size: 150%;
+    border: dashed white 6px;
+}
+
+.verde{
+    background: url("../img/verde.png") repeat;
+    width: 26%;
+    display: inline-block;
+    margin: 20px;
+    border: solid #246604 3px;
+    height: 300px;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 150%;
+}
+
+.principal{
+    float: none;
+    margin: auto;
+    width: 90%;
+    padding: 30px;
+}
+
+a{
+    color: white;
+}
+
