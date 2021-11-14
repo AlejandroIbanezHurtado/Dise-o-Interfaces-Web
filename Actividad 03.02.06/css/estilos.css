@@ -1,0 +1,94 @@
+.container{
+    position: relative;
+    width: 70%;
+  }
+  .caja{
+    width: 180px;
+    height: 180px;
+    background-color: #30B037;
+    color: #FFF;
+    text-align: center;
+    line-height: 180px;
+    margin: 15px;
+    float: left;
+    font-size: 18px;
+    font-family: Arial;
+    transition-duration: 1s;
+  }
+
+.caja1{
+  background-color: #C0392B;
+}
+.caja1:hover{
+  transform: scale(0.5, 0.5);
+}
+
+.caja2{
+  background-color: #9B59B6;
+}
+.caja2:hover{
+  transform: rotate(360deg);
+}
+
+.caja3{
+  background-color: #2980B9;
+}
+.caja3:hover{
+  transform: skew(15deg, 15deg);
+}
+
+.caja4{
+  background-color: #3498DB;
+}
+.caja4:hover{
+  transform: skewX(-20deg);
+}
+
+.caja5{
+  background-color: #17A589;
+}
+.caja5:hover{
+  transform: skewY(20deg);
+}
+
+.caja6{
+  background-color: #F1C40F;
+}
+.caja6:hover{
+  transform: translate(10px,5px);
+}
+
+.caja7{
+  background-color: #E67E22;
+}
+.caja7:hover{
+  transform: translateX(10px);
+}
+
+.caja8{
+  background-color: #95A5A6;
+}
+.caja8:hover{
+  transform: translateY(10px);
+}
+
+.caja9{
+  background-color: #2C3E50;
+}
+.caja9:hover{
+  transform: perspective(100px) rotateY(360deg);
+}
+
+.caja10{
+  background-color: #808080;
+}
+.caja10:hover{
+  transform: perspective(100px) rotateX(360deg);
+}
+
+.caja11{
+  background-color: #000000;
+}
+.caja11:hover{
+  transform: matrix(1, 2, -1, 1, 80, 80);
+}
