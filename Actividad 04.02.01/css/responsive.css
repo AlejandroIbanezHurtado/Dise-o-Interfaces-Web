@@ -1,0 +1,20 @@
+@media screen and (max-width: 1000px){
+    div#extras{
+        float: left;
+        width: 550px;
+        margin-left: 225px;
+    }
+}
+@media screen and (max-width: 480px){
+    #content{
+        clear: both;
+        float: none;
+        margin-left: 0px;
+    }
+    #extras{
+        clear: both;
+        float: left;
+        position: relative;
+        left: -225px;
+    }
+}
