@@ -1,0 +1,59 @@
+body{
+    font-size: 120%;
+}
+nav{
+    display: inline-flex;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100%;
+}
+header{
+    text-align: center;
+}
+nav > div{
+    margin-right: 100px;
+}
+div.sidebar{
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: max-content;
+    height: 800px;
+    float: left;
+}
+div.sidebar > div{
+    margin-bottom: 30px;
+}
+section.courses{
+    margin-top: 30px;
+    float: right;
+    width: 88%;
+    display: inline-flex;
+}
+div.course{
+    text-align: center;
+    border: solid 2px black;
+    border-radius: 5%;
+    padding: 20px;
+}
+p > img{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+section.articles{
+    margin-top: 30px;
+    text-align: left;
+    float: right;
+    width: 88%;
+    display: inline-flex;
+}
+footer{
+    padding: 20px;
+    background-color: #D3D3D3;
+    text-align: center;
+    clear: both;
+}
