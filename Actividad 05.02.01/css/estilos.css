@@ -1,0 +1,31 @@
+.verde{
+    background-color: #29FE2F;
+    height: 50px;
+}
+.rosa{
+    background-color: #FD29FC;
+    height: 50px;
+}
+.rojo{
+    background-color: #FC0D1B;
+}
+.naranja{
+    background-color: #FE9A5D;
+    height: 200px;
+}
+.azul{
+    background-color: #0B24FB;
+    height: 100px;
+}
+body{
+    padding: 100px;
+}
+.container{
+    width: 70%;
+}
+div{
+    border: 4px white solid;
+}
+#caja2{
+    border: 2px black solid;
+}
