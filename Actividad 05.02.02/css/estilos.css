@@ -1,0 +1,31 @@
+.verde{
+    background-color: #29FE2F;
+    height: 50px;
+}
+.azul{
+    background-color: #88ABDD;
+    height: 170px;
+}
+.gris{
+    background-color: #A0A0A0;
+    height: 170px;
+}
+.azulc{
+    background-color: #2DFFFF;
+    height: 80px;
+}
+.naranja{
+    background-color: #FE9A5D;
+    height: 170px;
+}
+body{
+    padding: 100px;
+}
+.container{
+    width: 70%;
+}
+div{
+    border: 2px white solid;
+    text-align: center;
+    align-content: center;
+}
