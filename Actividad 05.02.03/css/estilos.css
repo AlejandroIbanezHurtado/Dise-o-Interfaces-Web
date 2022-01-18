@@ -1,0 +1,46 @@
+.verde{
+    background-color: #29FE2F;
+    height: 50px;
+}
+.amarillo{
+    background-color: #FFFE38;
+    height: 50px;
+}
+.rojo{
+    background-color: #FC0D1B;
+    height: 350px;
+}
+body{
+    padding: 100px;
+}
+.container{
+    width: 70%;
+}
+div{
+    border: 2px white solid;
+}
+@media screen and (max-width: 768px){
+    .verde{
+        background-color: #2DFFFF;
+    }
+    .rojo{
+        height: 100px;
+    }
+    div + div +div.rojo{
+        background-color: #29FE2F;
+    }
+}
+@media screen and (max-width: 576px){
+    .verde{
+        background-color: #FEB385;
+    }
+    .rojo{
+        height: 70px;
+    }
+    div + div.rojo{
+        background-color: #2DFFFF;
+    }
+    div + div +div.rojo{
+        background-color: #FC0D1B;
+    }
+}
