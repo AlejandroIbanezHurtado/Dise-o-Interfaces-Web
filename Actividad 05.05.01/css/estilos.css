@@ -1,0 +1,19 @@
+.cuadro{
+    background-color: #17A2B8;
+    font-size: 20px;
+    padding: 10px;
+}
+.archivo{
+    background-color: #343A40;
+    width: 90%;
+    color: white;
+}
+form{
+    padding: 30px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
+.radio-inline{
+    margin-left: 12%;
+}
